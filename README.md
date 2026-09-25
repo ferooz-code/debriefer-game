@@ -6,9 +6,13 @@ A voiced, game-style trainer for healthcare simulation educators. You play the f
 
 ## What is inside
 
-- Two debriefing frameworks, each with 3 levels from low to high emotional intensity:
-  - **PEARLS** (Promoting Excellence And Reflective Learning in Simulation): The Quiet Slide, The Tenfold Dose, No Return
-  - **GAS** (Gather, Analyze, Summarize): The Sleepy Patient, Silent Chest, The Hidden Cause
+- Two debriefing frameworks, with 9 levels from low to high emotional intensity:
+  - **PEARLS** (Promoting Excellence And Reflective Learning in Simulation): The Quiet Slide, The Tenfold Dose, No Return, The Last Word
+  - **GAS** (Gather, Analyze, Summarize): The Sleepy Patient, Silent Chest, The Hidden Cause, Visiting Hours, Small Hands
+- Advanced levels with a simulated participant (SP) in the room:
+  - **The Last Word** (PEARLS 4): debriefing a death notification. SPIKES, GRIEV_ING, NURSE statements, structured SP feedback, facilitator self-care.
+  - **Visiting Hours** (GAS 4): debriefing an angry family member. De-escalation, when to call security, the system gap behind the anger, disclosure and apology.
+  - **Small Hands** (GAS 5): debriefing infant septic shock with the mother present. IO access, fluid and antibiotic timing, family presence during resuscitation.
 - A video intro for each framework
 - A demo mode (Level 1 of each framework, nothing saved) and free local accounts
 - Score 90 or more on a level to unlock the next one
@@ -36,6 +40,16 @@ Accounts and progress are saved in each student's own browser. The results file 
 
 - Structure: PEARLS Healthcare Debriefing Tool (Bajaj, Meguerdichian, Thoma, Huang, Eppich, Cheng. Acad Med 2018) and Eppich and Cheng, Simul Healthc 2015. GAS debriefing model from WISER and the American Heart Association.
 - Micro-skills informed by The Debriefing Academy InfoQuips.
+- Advanced case evidence:
+  - SPIKES (Baile et al., Oncologist 2000)
+  - GRIEV_ING (Hobgood et al., Acad Emerg Med 2005)
+  - VitalTalk NURSE statements
+  - Canadian Disclosure Guidelines and the BC Apology Act
+  - ENA Family Presence clinical practice guideline
+  - Surviving Sepsis Campaign paediatric guidelines 2020
+  - AHA PALS
+  - ASPE Standards of Best Practice 2017
+  - INACSL Healthcare Simulation Standards (Prebriefing, Debriefing)
 - Voices: Kokoro-82M text-to-speech (Apache-2.0).
 - Portraits: AI-generated fictional people. All cases and characters are fictional.
 
